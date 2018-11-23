@@ -1,0 +1,14 @@
+☐ Zapisujemy per lista
+    Wysłać projekt na git'a
+    ☐ Niech store zapisuje listy pod odpowiednią nazwą
+    ☐ Mamy domyślną listę 200 elementów (od 1 do 200)
+        ☐ Przechowujemy też id_max
+        ☐ i każdy element jest tam zapisywany od dołu
+            ☐ W wypadku zmiany kolejności zamieniają się miejscami (element otrzymuje id tego pod nim, ten pod nim id najwyższe)
+                ☐ delete niech przenosi wszystkie elementy jak najbardziej w dół
+    ☐ lista sortuje po zmiennoprzecinkowej liczbie.
+        ☐ Całkowita określa miejsce na liście
+            ☐ Po przecinku określa, który 
+☐ Niech zaczyna od -0 i dodaje kolejne liczby
+    ☐ mamy 2 indexy, jeden minimalny, 2gi na górze i dodajemy najwyższy index
+    ☐ Przy dodawaniu nich dodaje na górę
